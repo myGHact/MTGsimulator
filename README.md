@@ -1,0 +1,2 @@
+# MTGsimulator
+MTG deck simulator
